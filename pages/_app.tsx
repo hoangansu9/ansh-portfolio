@@ -40,7 +40,7 @@ function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
         <meta name="author" content="Ansh" />
         <meta httpEquiv="content-language" content="en" />
 
-        {/* Open Graph / Facebook */}
+        {/* Open Graph / Facebook
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://harshgoel.me/" />
         <meta property="og:title" content="Ansh | Software Developer" />
@@ -51,7 +51,7 @@ function MyApp({ Component, pageProps, router }: AppProps): JSX.Element {
         <meta
           property="og:image"
           content="https://billboard.srmkzilla.net/api/blog?title=Harsh%20Goel&subtitle=Software%20Developer&fileType=jpeg&theme=dark&fontSize=180px"
-        />
+        /> */}
 
         {/* Use Billboard to get an OG Image */}
         <meta
