@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-Another Porfolio
+Ansh Porfolio
 </p>
 <p align="center">
 crafted with <span style="color: #8b0000;">&hearts;</span> by <a href="https://harshgoel.me">Harsh Goel</a>.
